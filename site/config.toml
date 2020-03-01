@@ -1,10 +1,10 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
+title = "Thoughts"
 theme = "hugo-theme-casper"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
-googleAnalytics = ""
+#googleAnalytics = ""
 # Define how many posts should appear on a site
 paginate = 10
 canonifyurls = true
@@ -13,18 +13,18 @@ canonifyurls = true
   description = "this is my description"
   cover = "images/cover.jpg"
   author = "Joshua"
-  authorlocation = "Earth"
+  authorlocation = "Planet Earth"
   authorwebsite = "https://rosen.global"
-  bio= "my bio"
+  #bio= "my bio"
   logo = "images/logo.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
-  RSSLink = "http://feeds.feedburner.com/..."
-  githubName = "rosen-global"
-  twitterName = ""
+  #RSSLink = "http://feeds.feedburner.com/..."
+  #githubName = "rosen-global"
+  #twitterName = ""
   # facebookName = ""
   # linkedinName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
   hideHUGOSupport = false
   [params.social]
-    twitter = "your_twitter"
+    #twitter = "your_twitter"
